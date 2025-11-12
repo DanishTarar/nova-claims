@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Container, Row, Col, Form, Button, Modal } from 'react-bootstrap';
+import { Row, Col, Form, Button, Modal } from 'react-bootstrap';
 import emailjs from '@emailjs/browser';
 
 const ConsultationForm = () => {

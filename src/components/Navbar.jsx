@@ -1,6 +1,6 @@
 import React from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
-import { FaPhoneAlt, FaBalanceScale } from 'react-icons/fa';
+import { FaBalanceScale } from 'react-icons/fa';
 
 const CustomNavbar = () => {
   return (
